@@ -16,6 +16,10 @@ p {
     margin-bottom: 3px;
 }
 
+.upper-case{
+    text-transform: uppercase;
+}
+
 body{
     background-color: rgb(255, 255, 224);
 }
